@@ -1,0 +1,59 @@
+image: assets/img/image.png
+username: Ignacio
+description: Undergraduated Student. Autodidact IT Researcher.
+webpage: https://cxto21.github.io
+experience: # Remove to hide this section
+  - start: 2020-05-17
+    end: 2020-06-24
+    experience: TCP Argentina - Competitive Programming
+  - start: 2021-07-02
+    end: 2021-07-17
+    experience: Training by OAS on Cybersecurity
+  - start: 2021-11-03
+    end: 2022-11-17
+    experience: Digital Solutions Development
+
+interests: # Remove to hide the section
+  - Software Engineer
+  - Security Researcher
+  - Life Cycles
+  - Clean and Scalable Solutions
+  - Unix Systems
+skills: # Remove to hide the section
+  - skill: Planification
+    value: 75  # Fils a lot    
+  - skill: Structured Projects
+    value: 70  # Obs a lot   
+  - skill: Security Considerations
+    value: 70  # Learning a lot
+  - skill: Solutions Capability
+    value: 82  # Training a lot
+  - skill: Network Understands
+    value: 79  # Dipping
+  - skill: Creativity
+    value: 90  # ImplicitP
+
+
+social:
+  email: ignaciodelcorro21a@gmail.com
+  orcid: 
+  scholar:
+  publons: 
+  research_gate: 
+  dblp:  # Url
+  semantic_scholar:  # URL
+  linkedin:  # ignaciodelcorro 
+  github: cxto21
+  gitlab: cxto21
+  bitbucket:
+  google_plus:
+  twitter: cxto21
+  youtube:
+  facebook:
+  instagram: cxto21
+awards: # Remove for hiding the awards section {-td: reeplace awards with tagets-}
+  - "Improve on experience"
+  - "Give the best of my motivation"
+  - "Gain solid knowledge of security in distributed systems"
+  - "Generate solid solutions"
+  - "Get a good overview of the infrastructure"
