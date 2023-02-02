@@ -1,0 +1,11 @@
+- presentation:
+    title: Study roadmap
+    event: Presentation
+    date: 02/02/2023
+    comment: Personal Progress Planning
+    slides: https://www.figma.com/file/UNXL4ctCxGnKNkVm0Tv2EN/Untitled?node-id=0%3A1&t=ulA4tVMcVjW8enE5-1 # potential link to slides
+    hub: example-hub # potential hub page to link to
+- presentation:
+    title: Nothing
+    event: Another conference
+    date: 21/09/2022
