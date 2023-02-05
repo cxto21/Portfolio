@@ -1,7 +1,7 @@
 image: assets/img/image.png
 username: Ignacio
 description: Undergraduated Student. Autodidact IT Researcher.
-webpage: https://cxto21.github.io
+webpage: https://cxto21.tk
 experience: # Remove to hide this section
   - start: 2020-05-17
     end: 2020-06-24
@@ -9,29 +9,29 @@ experience: # Remove to hide this section
   - start: 2021-07-02
     end: 2021-07-17
     experience: Training by OAS on Cybersecurity
-  - start: 2021-11-03
+  - start: 2022-01-03
     end: 2022-12-17
     experience: Digital Solutions Development
 
 interests: # Remove to hide the section
   - Software Engineer
-  - Security Researcher
-  - Life Cycles
   - Clean and Scalable Solutions
+  - Life Cycles
   - Unix Systems
+  - Security Researcher
 skills: # Remove to hide the section
   - skill: Solutions Capability
-    value: 82  # Training a lot
+    value: 72  # Training a lot
   - skill: Planification
-    value: 75  # Fils a lot    
+    value: 65  # building experience    
   - skill: Structured Projects
-    value: 80  # Obs a lot   
+    value: 70  # Observing a lot   
   - skill: Creativity
-    value: 90  # ImplicitP    
+    value: 80  # Implicit:p    
   - skill: Network Understands
-    value: 79  # Dipping
+    value: 69  # Dipping
   - skill: Security Considerations
-    value: 70  # Learning a lot    
+    value: 60  # Learning    
 
 
 social:
@@ -41,7 +41,7 @@ social:
   publons: 
   research_gate: 
   dblp:  # Url
-  semantic_scholar:  https://www.linkedin.com/in/ignacio-del-corro-73824b247 # URL
+  semantic_scholar:  https://www.linkedin.com/in/ignaciodelcorro # URL
   linkedin:  # ignaciodelcorro 
   github: cxto21
   gitlab: cxto21

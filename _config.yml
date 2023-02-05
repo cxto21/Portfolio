@@ -1,5 +1,6 @@
   # Site Settings
-baseurl: "/Portfolio"
+url: "cxto21.tk"
+baseurl: "/"
 
 # Features Setting
 # Turn subpages on or off
